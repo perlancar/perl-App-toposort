@@ -2,3 +2,4 @@ App-toposort-*
 .build
 *~
 nytprof*
+.DS_Store
